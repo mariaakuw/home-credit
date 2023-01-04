@@ -4,7 +4,7 @@
 <p> The propose of this project is create a Modelling Systems to filter capable clients who can repayment their loans to be accept their request automatically. This Systems using Statistical and Machine Learning to make prediction. </p>
 
   <p> I know it's not really done but there is it 😗</p>
-  <p> I really appreciate if one of you are want me to fix the projects! 🐱 </p>
+  <p> I really appreciate if one of you are help me to fix the projects! 🐱 </p>
 
 <h2> ⭐ Download the Dataset [HERE] ⭐</h2>
 
